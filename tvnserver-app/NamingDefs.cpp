@@ -52,7 +52,7 @@ const TCHAR ClipboardNames::CLIPBOARD_WIN_CLASS_NAME[] =
 const TCHAR ServiceNames::TVNCONTROL_START_REGISTRY_ENTRY_NAME[] =
   _T("tvncontrol");
 const TCHAR ServiceNames::SERVICE_NAME[] = _T("tvnserver");
-const TCHAR ServiceNames::SERVICE_NAME_TO_DISPLAY[] = _T("TightVNC Server");
+const TCHAR ServiceNames::SERVICE_NAME_TO_DISPLAY[] = _T("FikesMedia VNC Server");
 
 const TCHAR ServerApplicationNames::SERVER_INSTANCE_MUTEX_NAME[] =
   _T("tvnserverApplication");
@@ -78,7 +78,7 @@ const TCHAR DefaultNames::DEFAULT_COMPUTER_NAME[] = _T("TightVNC Server");
 
 const char HttpStrings::HTTP_INDEX_PAGE_FORMAT[] =
 "<HTML>\n"
-"  <HEAD><TITLE>TightVNC desktop [%.256s]</TITLE></HEAD>\n"
+"  <HEAD><TITLE>FikesMedia VNC desktop [%.256s]</TITLE></HEAD>\n"
 "  <BODY>\n"
 "    <APPLET ARCHIVE=\"tightvnc-jviewer.jar\""
 " CODE=\"com.glavsoft.viewer.Viewer\" WIDTH=1 HEIGHT=1>\n"
@@ -86,13 +86,13 @@ const char HttpStrings::HTTP_INDEX_PAGE_FORMAT[] =
 "      <PARAM NAME=\"OpenNewWindow\" VALUE=\"YES\">\n"
 "%.1024s"
 "    </APPLET><BR>\n"
-"    <A HREF=\"http://www.tightvnc.com/\">www.TightVNC.com</A>\n"
+"    <A HREF=\"https://www.fikesmedia.com/\">www.FikesMedia.com</A>\n"
 "  </BODY>\n"
 "</HTML>\n";
 
 const char HttpStrings::HTTP_MSG_BADPARAMS[] =
 "<HTML>\n"
-"  <HEAD><TITLE>TightVNC desktop</TITLE></HEAD>\n"
+"  <HEAD><TITLE>FikesMedia VNC desktop</TITLE></HEAD>\n"
 "  <BODY>\n"
 "    <H1>Bad Parameters</H1>\n"
 "    The sequence of applet parameters specified within the URL is invalid.\n"

@@ -242,5 +242,11 @@
     <Image Include="res\tightvncN.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="res\toolbarN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

@@ -2,7 +2,8 @@
 // All rights reserved.
 //
 //-------------------------------------------------------------------------
-// This file is part of the TightVNC software.  Please visit our Web site:
+// This file is part of the 
+//  software.  Please visit our Web site:
 //
 //                       http://www.tightvnc.com/
 //

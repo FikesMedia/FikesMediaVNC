@@ -434,6 +434,8 @@
     <Image Include="res\appiconN.ico" />
     <Image Include="res\tightvnc48N.bmp" />
     <Image Include="res\tightvncN.bmp" />
+    <Image Include="res\toolbar01.bmp" />
+    <Image Include="res\toolbarN.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
