@@ -9,6 +9,8 @@
       <UIRef Id="WixUI_Mondo" />
       <UIRef Id="WixUI_ErrorProgressText" />
 
+      
+
       <DialogRef Id="AdditionalTasks" />
 
       <!-- Skip the License Agreement dialog if it's needed. -->

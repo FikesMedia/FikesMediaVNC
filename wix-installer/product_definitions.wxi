@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Include>
+  
+  
   <?define ProductNameStub='FikesMediaVNC' ?>
   <?define Language='1033' ?>
   <?define Codepage='1252' ?>
@@ -15,7 +17,7 @@
       <?define Version='!(bind.FileVersion.viewerEXE)' ?>
     <?endif?>
   <?endif?>
-  <?define Manufacturer='GlavSoft LLC.' ?>
+  <?define Manufacturer='FikesMedia' ?>
 
   <?define SrcFolder = "..\" ?>
 

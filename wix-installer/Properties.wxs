@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
   <Fragment>
+    
+   
     <PropertyRef Id="WIX_ACCOUNT_USERS" />
     <!-- Properties that compete with the UI properties. If UI disabled
     (a silent mode) installer will use this properties else will use

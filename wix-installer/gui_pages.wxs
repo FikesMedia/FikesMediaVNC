@@ -15,6 +15,7 @@
 
     <!-- UI pages -->
     <UI>
+      
       <Dialog Id="AdditionalTasks" Width="370" Height="270" Title="[ProductName] Setup" NoMinimize="yes">
         <Control Id="ExplanationLabel" Type="Text" X="15" Y="55" Width="355" Height="25" TabSkip="yes">
           <Text>Select additional tasks you would like Setup to perform while installing [ProductName] [ProductVersion], then click Next.</Text>
