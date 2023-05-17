@@ -76,7 +76,7 @@
 
     <?endif?>
 
-    <CustomAction Id='AlreadyUpdated' Error='TightVNC has already been updated to $(var.Version) or newer.' />
+    <CustomAction Id='AlreadyUpdated' Error='FikesMedia VNC has already been updated to $(var.Version) or newer.' />
     <CustomAction Id='NoDowngrade' Error='A later version of [ProductName] is already installed.' />
 
   </Fragment>

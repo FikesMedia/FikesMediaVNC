@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Include>
-  <?define ProductNameStub='TightVNC' ?>
+  <?define ProductNameStub='FikesMediaVNC' ?>
   <?define Language='1033' ?>
   <?define Codepage='1252' ?>
   <?define StartProductVersion='2.0.0' ?> <!-- Earlest version that can be upgraded by this installer -->
@@ -29,7 +29,7 @@
     <?define ProductId = '*' ?>
     <?define Win64 = "yes" ?>
     <?define PlatformProgramFilesFolder = "ProgramFiles64Folder" ?>
-    <?define BinFolder = "$(var.SrcFolder)\x64\Release" ?>
+    <?define BinFolder = "$(var.SrcFolder)\Release\x64" ?>
     <?define AddonBinFolder = "files64" ?>
   <?else ?>
     <?define ProductId = '*' ?>
