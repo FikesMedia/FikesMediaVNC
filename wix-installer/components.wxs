@@ -9,7 +9,7 @@
       <!-- tvnserver with shortcuts -->
       <?ifndef SERVER_FREE ?>
       <Component Id='ServerExe' Guid='F8F36CD1-9EE3-4911-8CA1-8B0B6BB34175'>
-        <ServiceControl Id="ServiceRemover"
+        <ServiceControl Id="ServiceRemover" 
                         Name="tvnserver"
                         Remove="uninstall"
                         Stop="uninstall"
