@@ -30,7 +30,7 @@ const TCHAR ProductNames::VIEWER_PRODUCT_NAME[] = _T("FikesMedia VNC Viewer");
 const TCHAR LogNames::VIEWER_LOG_FILE_STUB_NAME[] = _T("tvnviewer");
 const TCHAR LogNames::LOG_DIR_NAME[] = _T("FikesMedia VNC");
 
-const TCHAR RegistryPaths::VIEWER_PATH[] = _T("Software\\TightVNC\\Viewer");
+const TCHAR RegistryPaths::VIEWER_PATH[] = _T("SOFTWARE\\FikesMediaVNC\\Viewer");
 
 const TCHAR ApplicationNames::WINDOW_CLASS_NAME[] = 
   _T("TvnApplicationClass");

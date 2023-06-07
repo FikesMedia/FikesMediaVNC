@@ -27,21 +27,21 @@
 const TCHAR NamingDefs::MIRROR_DRIVER_MESSAGE_WINDOW_CLASS_NAME[] =
   _T("MIRROR_DRIVER_MESSAGE_WINDOW_CLASS_NAME");
 
-const TCHAR ProductNames::PRODUCT_NAME[] = _T("TightVNC");
-const TCHAR ProductNames::SERVER_PRODUCT_NAME[] = _T("TightVNC Server");
+const TCHAR ProductNames::PRODUCT_NAME[] = _T("FikesMediaVNC");
+const TCHAR ProductNames::SERVER_PRODUCT_NAME[] = _T("FikesMediaVNC Server");
 
-const TCHAR RegistryPaths::SERVER_PATH[] = _T("Software\\TightVNC\\Server");
+const TCHAR RegistryPaths::SERVER_PATH[] = _T("SOFTWARE\\FikesMediaVNC\\Server");
 const TCHAR RegistryPaths::SERVER_REVERSE_CONN_HISTORY_PATH[] =
-  _T("Software\\TightVNC\\Control\\ReverseConnectionHistory");
+  _T("SOFTWARE\\FikesMediaVNC\\Control\\ReverseConnectionHistory");
 const TCHAR RegistryPaths::DISPATCHER_CONN_HISTORY_PATH[] =
-  _T("Software\\TightVNC\\Control\\DispatcherConnectionHistory");
+  _T("SOFTWARE\\FikesMediaVNC\\Control\\DispatcherConnectionHistory");
 
 const TCHAR WindowNames::WINDOW_CLASS_NAME[] =
   _T("TvnWindowsApplicationClass");
 
 const TCHAR LogNames::SERVER_LOG_FILE_STUB_NAME[] = _T("tvnserver");
 const TCHAR LogNames::VIEWER_LOG_FILE_STUB_NAME[] = _T("tvnviewer");
-const TCHAR LogNames::LOG_DIR_NAME[] = _T("TightVNC");
+const TCHAR LogNames::LOG_DIR_NAME[] = _T("FikesMediaVNC");
 const TCHAR LogNames::LOG_PIPE_PUBLIC_NAME[] = _T("TVN_log_pipe_public_name");
 const TCHAR LogNames::WIN_EVENT_PROVIDER_NAME[] = _T("tvnserver");
 
