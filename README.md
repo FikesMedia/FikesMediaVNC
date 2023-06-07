@@ -12,3 +12,6 @@ FikesMedia VNC is a free remote control software package. With FikesMedia VNC, y
 * help your friends and family to solve problems with their computers remotely,
 * make sure nothing wrong is happening on your computers when you are away.
 
+[GPLv2 License](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
+
